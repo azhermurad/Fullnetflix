@@ -408,7 +408,6 @@ hr{
    
    
    .Home{
-       height: 100vh;
        margin: 0px;
        padding: 0px;
        background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://occ-0-58-64.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc4lAY__cKWysr6lGNdKhKbtEuvzcs4lRilz9ZieNkBL7q7vHEoTzZDV7oZSn4nnNZsL97xqxdcvCdKW_CXBToWhEyvB.webp?r=aa1);
@@ -421,20 +420,17 @@ hr{
        min-height: 60px;
    }
    .homeDiv{
+       margin-bottom: 3.4rem;
        margin-top: 115px;
        margin-left: 71px;
    }
    .homeDiv button{
-       width: 9%;
-       height: 6vh;
        resize: both;
        position: relative;
        min-width: 150px;
        min-height: 60px;
    }
    .homeDiv button{
-       width: 12%;
-       height: 6vh;
        opacity: 0.8;
        margin-right: 10px;
        background-color: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
@@ -569,7 +565,6 @@ hr{
    
 }
 .Movies{
-    height: 100vh;
     margin: 0px;
     padding: 0px;
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://occ-0-58-64.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXd3kq6GlWnPpaP8jYQNp0SasaKWZ-y40KvQz4v9gBqgnA3xyXwLo5gUwQ35_ZT1vQUTIVSo_gjpxASXDjJRQ3Z2qJ9u.webp?r=e22);
